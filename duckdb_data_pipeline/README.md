@@ -1,6 +1,6 @@
 # A simple DuckDB ETL Data Pipeline
 
-This project demonstrates how to build an end-to-end ETL (Extract, Transform, Load) pipeline using (DuckDB)[https://duckdb.org/].
+This project demonstrates how to build an end-to-end ETL (Extract, Transform, Load) pipeline using (DuckDB)[https://duckdb.org/]. This project uses DuckDB because it provides warehouse-grade SQL analytics locally with no server setup, fast columnar execution, and direct queries over Parquet/CSV/Arrow. It’s ideal for reproducible ETL in notebooks and exporting clean Parquet outputs for downstream ML or BI—without the overhead of managing a database or cluster. It blazes fast on CSV/Parquet/Arrow—with clean integration into Python/R. It fills the gap between pandas/Polars and Spark/warehouses. 
 
 Overview of the pipeline:
 ![duckdb_data_pipeline](figs/duckdb_data_pipeline.png)
