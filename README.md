@@ -1,6 +1,6 @@
 # Data_engineering-projects
 
-A collection of my data engineering mini-projects exploring different softwares and tools.
+A collection of my data engineering mini-projects exploring different software tools.
 
 
 | Project | Folder | Link |
