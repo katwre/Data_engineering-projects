@@ -1,4 +1,4 @@
-# Introfuction
+# Introduction
 
 This project explores efficient data processing with Polars, with a particular focus on lazy execution (LazyFrame), schema enforcement, and expression correctness. It demonstrates how Polars’ strict typing and query planning model affect real-world data workflows, including common pitfalls and best practices when working with large, columnar datasets.
 
