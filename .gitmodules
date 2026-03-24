@@ -1,0 +1,3 @@
+[submodule "gbfs-bike-monitoring"]
+	path = gbfs-bike-monitoring
+	url = https://github.com/katwre/gbfs-bike-monitoring.git
